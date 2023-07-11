@@ -1,2 +1,10 @@
 # -TCC-Reliquias-do-Caos
-Projeto e jogo Compilado
+Fonte do Jogo
+
+Pasta (audio)
+	-bgm
+	-bgs
+	-me
+	-se
+
+
